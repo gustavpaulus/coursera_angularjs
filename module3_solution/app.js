@@ -35,7 +35,7 @@
 	}
 	
 	NarrowItDownController.$inject = ['MenuSearchService'];
-	function NarrowItDownController($MenuSearchService) 
+	function NarrowItDownController(MenuSearchService) 
 	{
 		var controller = this;
 
